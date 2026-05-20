@@ -10,7 +10,7 @@ data from YouTube sources.
 - Collects structured JSON data via YouTube Data API v3 and NewsAPI
 - Cleans and enriches data with Pandas — deduplication, null filtering, schema normalization
 - Custom engagement scoring algorithm ranking videos by likes and comment velocity
-- Keyword frequency analysis surfacing trending topics (AI, Python, Machine Learning)
+- Keyword frequency analysis surfacing trending topics (Data Science, AI, Python, Machine Learning)
 - 5-panel Matplotlib dashboards covering views, engagement, channels, and keyword presence
 - Exports analysis-ready CSV datasets for BI tools and AI/ML model input
 
