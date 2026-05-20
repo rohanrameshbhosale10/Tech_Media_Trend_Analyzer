@@ -3,6 +3,10 @@
 A Python data pipeline that collects, processes, and visualizes
 data from YouTube sources.
 
+## Dashboard Preview
+![Media Trend Analyzer Dashboard](screenshots/Youtube_Analytics_Dashboard.png)
+
+
 ## Features
 - Collects structured JSON data via YouTube Data API v3 and NewsAPI
 - Cleans and enriches data with Pandas — deduplication, null filtering, schema normalization
