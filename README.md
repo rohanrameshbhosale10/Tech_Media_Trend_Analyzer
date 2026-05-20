@@ -4,7 +4,7 @@ A Python data pipeline that collects, processes, and visualizes
 data from YouTube sources.
 
 ## Dashboard Preview
-![Media Trend Analyzer Dashboard](screenshots/Youtube_Analytics_Dashboard.png)
+![Media Trend Analyzer Dashboard]([screenshots/Youtube_Analytics_Dashboard.png](https://github.com/rohanrameshbhosale10/Tech_Media_Trend_Analyzer/blob/5bb7d51147e82259bed979656b5691cba6114090/Youtube%20Analytics%20Dashboard.png))
 
 
 ## Features
