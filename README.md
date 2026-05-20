@@ -4,10 +4,12 @@ A Python data pipeline that collects, processes, and visualizes
 data from YouTube sources.
 
 ## Features
-- Collects structured JSON via YouTube Data API v3
-- Cleans and enriches data using Pandas (deduplication, engagement scoring, keyword tagging)
-- Generates analytics dashboards with Matplotlib
-- Exports analysis-ready CSV datasets
+- Collects structured JSON data via YouTube Data API v3 and NewsAPI
+- Cleans and enriches data with Pandas — deduplication, null filtering, schema normalization
+- Custom engagement scoring algorithm ranking videos by likes and comment velocity
+- Keyword frequency analysis surfacing trending topics (AI, Python, Machine Learning)
+- 5-panel Matplotlib dashboards covering views, engagement, channels, and keyword presence
+- Exports analysis-ready CSV datasets for BI tools and AI/ML model input
 
 ## Tech Stack
 `Python` `Pandas` `Matplotlib` `YouTube Data API v3` `NewsAPI` `JSON` `REST APIs`
