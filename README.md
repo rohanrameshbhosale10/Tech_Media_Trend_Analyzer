@@ -17,3 +17,12 @@ pip install -r requirements.txt
 python collector.py
 python processor.py
 python dashboard.py
+
+## Project Structure 
+Tech-media-trend-analyzer/
+├── collector.py        ← fetches data from YouTube & NewsAPI
+├── processor.py        ← cleans, enriches, exports CSV
+├── dashboard.py        ← generates analytics charts
+├── requirements.txt    ← dependencies
+├── .env.example        ← API keys
+└── screenshots/        ← dashboard preview images
