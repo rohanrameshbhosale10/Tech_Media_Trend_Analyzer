@@ -1,10 +1,10 @@
-# Social Media Intelligence Platform
+# Tech-Media Trend Analyzer
 
 A Python data pipeline that collects, processes, and visualizes
-data from YouTube and global news sources.
+data from YouTube sources.
 
 ## Features
-- Collects structured JSON via YouTube Data API v3 and NewsAPI
+- Collects structured JSON via YouTube Data API v3
 - Cleans and enriches data using Pandas (deduplication, engagement scoring, keyword tagging)
 - Generates analytics dashboards with Matplotlib
 - Exports analysis-ready CSV datasets
